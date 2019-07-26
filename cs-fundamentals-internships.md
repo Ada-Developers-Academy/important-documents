@@ -5,7 +5,7 @@
 | Week 00 |  8/8/2019 | Break Week!
 | Week 01 |  8/15/2019 | [Code Reviews](https://docs.google.com/presentation/d/1vZz0JtIspH2N4v59KymKTYHJ5xxOMKOe/edit#slide=id.p1) & [Linked Lists](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/linked_lists.md)
 | Week 03 | 8/22/2019 | [Linked Lists](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/linked_lists.md) & [Binary Search Trees](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/Binary%20Search%20Trees.md)
-| Week 04 | 8/29/2019 |  Internships Expectations Panel
+| Week 04 | 8/29/2019 |  Internships Expectations Panel / Managing-up 
 | Week 05 | 9/5/2019 | [Binary Search Trees](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/Binary%20Search%20Trees.md) & [Stacks & Queues](https://github.com/Ada-Developers-Academy/textbook-curriculum/tree/master/04-cs-fundamentals/internship/stacks_and_queues)
 | Week 06 | 9/12/2019 | [Stacks & Queues](https://github.com/Ada-Developers-Academy/textbook-curriculum/tree/master/04-cs-fundamentals/internship/stacks_and_queues) & [Hash Tables](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/Hash%20Tables.md)
 | Week 07 | 9/19/2019 | [Stacks & Queues](https://github.com/Ada-Developers-Academy/textbook-curriculum/tree/master/04-cs-fundamentals/internship/stacks_and_queues) & [Binary Search Trees](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/Binary%20Search%20Trees.md)
