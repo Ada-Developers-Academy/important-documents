@@ -15,7 +15,7 @@
 | Week 11 | 04/16/2020 | Caucus/Workshop [Whiteboarding tips](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Whiteboarding-Tips.md)
 | Week 12 | 04/23/2020 | [Instructors get interviewed, White boarding practice](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Whiteboarding-Tips.md)
 | Week 13 | 04/30/2020 | [Recursion & MergeSort With Algorithmic Strategies](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/algorithmic-strategies.md)
-| Week 14 | 05/07/2020 | [Linked Lists Part 1](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Introduction%20to%20Linked%20Lists.md)
+| Week 14 | 05/07/2020 | [Linked Lists Part 1](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/linked-lists.md)
 | Week 15 | 05/14/2020 | [State Machines](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Finite-State-Machines.md)
 | Week 16 | 05/21/2020 | TBD
 | Week 17 | 05/28/2020 | [Interview preparation](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Whiteboarding-Tips.md)
