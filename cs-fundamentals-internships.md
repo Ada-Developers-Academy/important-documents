@@ -18,7 +18,7 @@
 | Week 14 | 4/30/2020 |  Mock Interviews (1 - 4pm) Recruiters reviewing resumes (1-2, 4-5pm)
 | Week 15 | 5/7/2020 | Recruiting Toolbox (1-5pm)
 | Week 16 | 5/14/2020 | TBD
-| Week 17 | 5/21/2020 | BREAK!
+| Week 17 | 5/21/2020 | Dissecting the Offer with Blaine Mercado (3pm)
 | Week 18 | 5/28/2020 | Salary negotiation (AH), HR panel (2:30-5:00)
 | Week 19 | 6/04/2020 | _Interview Week C13_ Office Closed
 | Week 20 | 6/11/2020 | Ada space used for fulltime interviews
