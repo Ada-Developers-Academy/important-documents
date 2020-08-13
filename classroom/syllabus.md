@@ -122,12 +122,12 @@ Students should be able to:
 | Week 14 | Web APIs         | Producing APIs
 | Week 15 | JavaScript       | Intro to JavaScript
 | Week 16 | JavaScript       | JS in the Browser, axios
-| Week 17 | JavaScript       | Intro to React
-| Week 18 | _INTERVIEWS_     | &nbsp;
+| Week 17 | _BREAK_          | &nbsp;
+| Week 18 | JavaScript       | Intro to React
 | Week 19 | JavaScript       | React
-| Week 20 | JavaScript       | Full Stack Web Development
-| Week 21 | _BREAK_          | &nbsp;
-| Week 22 | Capstone Project | &nbsp;
+| Week 20 | _INTERVIEWS_     | &nbsp;
+| Week 21 | JavaScript       | Full Stack Web Development
+| Week 22 | Independent Capstone Study Week | Capstone Project Details, Reflection, Tutorials
 | Week 23 | Capstone Project | &nbsp;
 | Week 24 | Capstone Project | &nbsp;
 | Week 25 | Capstone Project | Presentations
